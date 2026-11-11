@@ -115,8 +115,13 @@ In this lab I ran into 2 issues:
 ![VM Quota Error](/Screenshots/Verification%20Failed.png "VM Quota Error")
 *Figure 7.1: VM quota error*
 
+
 ![Azure CLI command and output](/Screenshots/List%20of%20SKUs%20available%20in%20region.png "Azure CLI command and output")
 *Figure 7.2: Azure CLI command and output*
+
+
+![Multiple alerts logged](/Screenshots/Multiple%20Delete%20Alerts.png "Multiple alerts logged")
+*Figure 7.3: Multiple alerts logged*
 
 
 ---
